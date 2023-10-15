@@ -7,8 +7,8 @@ NRP : 5025211082
 ## TCP Hands On
 ### No 1
 
-!(no1)[src/TCP-Hands-On/no1.jpg]
-!(no1_2)[/src/TCP-Hands-On/no1_2.jpg]
+![no1](src/TCP-Hands-On/no1.jpg)
+![no1_2](/src/TCP-Hands-On/no1_2.jpg)
 
 Jawab :
 
@@ -17,7 +17,7 @@ Port : 55639
 
 ### No 2
 
-!(no2)[/src/TCP-Hands-On/no2.jpg]
+![no2](/src/TCP-Hands-On/no2.jpg)
 
 Jawab :
 
