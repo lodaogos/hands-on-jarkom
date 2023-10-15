@@ -17,8 +17,6 @@ Port : 55639
 
 ### No 2
 
-![no2](/src/TCP-Hands-On/no2.jpg)
-
 Jawab :
 
 128.119.245.12
@@ -26,7 +24,7 @@ Port : 80
 
 ### No 3 
 
-!(no3)[/src/TCP-Hands-On/no3.jpg]
+![no3](/src/TCP-Hands-On/no3.jpg)
 
 Jawab :
 
@@ -34,7 +32,7 @@ Seq = 4236649187
 
 ### No 4
 
-!(no4)[/src/TCP-Hands-On/no4.jpg]
+![no4](/src/TCP-Hands-On/no4.jpg)
 
 Jawab :
 
@@ -44,8 +42,8 @@ Ack = 4236649188
 
 ### No 5
 
-!(no5)[/src/TCP-Hands-On/no5.jpg]
-!(no5_2)[/src/TCP-Hands-On/no5_2.jpg]
+![no5](/src/TCP-Hands-On/no5.jpg)
+![no5_2](/src/TCP-Hands-On/no5_2.jpg)
 
 Jawab :
 
@@ -69,7 +67,7 @@ Length : 1514
 
 ###No 9
 
-!(no9)[/src/TCP-Hands-On/no9.jpg]
+![no9](/src/TCP-Hands-On/no9.jpg)
 
 Jawab :
 
@@ -78,7 +76,7 @@ side which packet has tcp segment
 
 ### No 10
 
-!(no10)[/src/TCP-Hands-On/no10.jpg]
+![no10](/src/TCP-Hands-On/no10.jpg)
 
 Jawab :
 
@@ -86,9 +84,9 @@ The length for each data received is 1448 bytes
 
 ### No 11
 
-!(no11)[/src/TCP-Hands-On/no11.jpg]
-!(no11_2)[/src/TCP-Hands-On/no11_2.jpg]
-!(no11_3)[/src/TCP-Hands-On/no11_3.jpg]
+![no11](/src/TCP-Hands-On/no11.jpg)
+![no11_2](/src/TCP-Hands-On/no11_2.jpg)
+![no11_3](/src/TCP-Hands-On/no11_3.jpg)
 
 Jawab :
 
@@ -115,8 +113,8 @@ Then we subtract it, we get : 0.123,633,000 second
 
 ### No 1
 
-!(no1)[/src/UDP-Hands-On/no1.jpg]
-!(no1_2)[/src/UDP-Hands-On/no1_2.jpg]
+![no1](/src/UDP-Hands-On/no1.jpg)
+![no1_2](/src/UDP-Hands-On/no1_2.jpg)
 
 Jawab :
 
@@ -126,10 +124,10 @@ There is 4 fields : Source Port, Destination Port, Length, Checksum
 
 ### No 2
 
-!(no2)[/src/UDP-Hands-On/no2.jpg]
-!(no2_1)[/src/UDP-Hands-On/no2_1.jpg]
-!(no2_2)[/src/UDP-Hands-On/no2_2.jpg]
-!(no2_3)[/src/UDP-Hands-On/no2_3.jpg]
+![no2](/src/UDP-Hands-On/no2.jpg)
+![no2_1](/src/UDP-Hands-On/no2_1.jpg)
+![no2_2](/src/UDP-Hands-On/no2_2.jpg)
+![no2_3](/src/UDP-Hands-On/no2_3.jpg)
 
 Jawab :
 
@@ -137,7 +135,7 @@ Jawab :
 
 ### No 3
 
-!(no3)[/src/UDP-Hands-On/no3.jpg]
+![no3](/src/UDP-Hands-On/no3.jpg)
 
 Jawab :
 
@@ -159,7 +157,7 @@ The largest source port available is 65535 because it uses 2 bytes to represent 
 
 ### No 6 
 
-!(no6)[/src/UDP-Hands-On/no6.jpg]
+![no6](/src/UDP-Hands-On/no6.jpg)
 
 Jawab :
 
@@ -167,9 +165,9 @@ The protocol number is 17 for UDP
 
 ### No 7
 
-!(no7)[/src/UDP-Hands-On/no7.jpg]
-!(no7_1)[/src/UDP-Hands-On/no7_1.jpg]
-!(no7_2)[/src/UDP-Hands-On/no7_2.jpg]
+![no7](/src/UDP-Hands-On/no7.jpg)
+![no7_1](/src/UDP-Hands-On/no7_1.jpg)
+![no7_2](/src/UDP-Hands-On/no7_2.jpg)
 
 Jawab :
 
