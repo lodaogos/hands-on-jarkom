@@ -7,7 +7,7 @@ NRP : 5025211082
 ## TCP Hands On
 ### No 1
 
-!(no1)[/src/TCP-Hands-On/no1.jpg]
+!(no1)[src/TCP-Hands-On/no1.jpg]
 !(no1_2)[/src/TCP-Hands-On/no1_2.jpg]
 
 Jawab :
